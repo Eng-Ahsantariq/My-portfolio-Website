@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer ",
+    "organisation": "Corvit Systems, Lahore ",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+    "location": "Lahore , Pakistan",
+    "experiences": [
+      " Collaborated with designers to create intuitive and user-friendly UI components.",
+      "Worked with Git for version control and managed deployments."
+    ],
+    "imageSrc": "company/corvit-img.png"
+  },
+  {
+    "id": 2,
+    "role": "Social Media Manager",
+    "organisation": "Society of Computer Systems Engineering-SCSE",
+    "startDate": "Dec, 2023",
+    "endDate": "Aug, 2024",
+    "location": "Must Mirpur",
+    "experiences": [
+      "Managing and curating engaging content across various social media platforms",
+      "Collaborating with team members to ensure consistent branding and messaging"
+    ],
+    "imageSrc": "company/logo.png"
+  },
+  {
+    "id": 3,
+    "role": "Volunteer",
+    "organisation": " Million Smiles Foundation",
+    "startDate": "jan, 2022",
+    "endDate": "Present",
+    "location": "Mirpur AJK",
+    "experiences": [
+      "Assisting in organizing and managing charity events, donation drives, and awareness campaigns",
+      "Collaborating with team members to plan and execute social outreach programs"
+    ],
+    "imageSrc": "company/ms-logo.png"
+  }
+]
